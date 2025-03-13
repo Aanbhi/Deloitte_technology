@@ -1,0 +1,38 @@
+[
+    {
+        "device_id": "dev-001",
+        "temperature": 22.5,
+        "humidity": 45.2,
+        "timestamp": 1649825400000
+    },
+    {
+        "device_id": "dev-002",
+        "temperature": 23.1,
+        "humidity": 42.8,
+        "timestamp": 1649825460000
+    },
+    {
+        "device_id": "dev-003",
+        "temperature": 21.8,
+        "humidity": 48.5,
+        "timestamp": 1649825520000
+    },
+    {
+        "device_id": "sensor-01",
+        "temperature": 24.2,
+        "humidity": 51.3,
+        "timestamp": 1649844900000
+    },
+    {
+        "device_id": "sensor-02",
+        "temperature": 23.8,
+        "humidity": 49.7,
+        "timestamp": 1649844960000
+    },
+    {
+        "device_id": "sensor-03",
+        "temperature": 25.1,
+        "humidity": 47.2,
+        "timestamp": 1649845020000
+    }
+]
